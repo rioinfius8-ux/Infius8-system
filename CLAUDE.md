@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Status
 
-This is a fresh `create-next-app` scaffold (package name `temp-infius8`): only `app/layout.tsx`, `app/page.tsx`, and `app/globals.css` exist. There is no application code, test framework, or test script yet.
+This is a fresh `create-next-app` scaffold (package name `infius8-system`): only `app/layout.tsx`, `app/page.tsx`, and `app/globals.css` exist. There is no application code, test framework, or test script yet.
 
 ## Commands
 
